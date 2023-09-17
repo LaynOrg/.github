@@ -1,6 +1,4 @@
-# Layn
-
-### Projects
+## Projects
 #### Lisansly
 Cloud-Based License Management Tool 
 </br></br>
